@@ -1,0 +1,5 @@
+openai>=1.40.0
+PyPDF2>=3.0.0
+SpeechRecognition>=3.10.0
+gTTS>=2.5.0
+pygame>=2.5.0
